@@ -3,7 +3,7 @@
 
 > 关注 图像, 图像, 3D, CV 等
 
-* [图形学基础：扫描线，重心坐标，多边形裁剪](https://github.com/AdenPlus/Blog/1)
+* [图形学基础：扫描线，重心坐标，多边形裁剪](https://github.com/AdenPlus/Blog/1.README.MD)
 * [传统 Ajax 已死，Fetch 永生](https://github.com/camsong/blog/issues/2)
 * [Immutable 详解及 React 中实践](https://github.com/camsong/blog/issues/3)
 * [抛弃 jQuery，拥抱原生 JavaScript](https://github.com/camsong/blog/issues/4)
